@@ -1,15 +1,16 @@
 ##  Authentication API
 
-<p align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="60" />
+  &nbsp;&nbsp;
+  
+  <img src="https://skillicons.dev/icons?i=spring" height="60" />
+  &nbsp;&nbsp;
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  &nbsp;&nbsp;
 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
+  <img src="https://jwt.io/img/pic_logo.svg" height="45" />
 </p>
 
 A secure authentication API built with Java, Spring Boot, Spring Security, JPA, and PostgreSQL.  
